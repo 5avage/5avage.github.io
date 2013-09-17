@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://5avage.github.io/sitemap.xml 
